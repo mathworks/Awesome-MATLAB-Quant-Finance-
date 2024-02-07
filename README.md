@@ -6,6 +6,8 @@
 
 Greetings and welcome to our quant finance page! Here you'll find a page filled with a range of quant topics, from managing your data to pricing models, with insightful and cool links about each one. As a quantitative finance engineer at MathWorks, I've personally found these links helpful when engaging with clients. Take a look - I hope you enjoy it too!
 
+Sara Galante, sdavis@mathworks.com
+
 ## Popular Topics by Application
 
 - [Data Management](#data-management)
