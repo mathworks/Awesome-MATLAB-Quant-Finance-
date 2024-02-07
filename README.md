@@ -1,4 +1,4 @@
-# Awesome Quant Finance Links
+# Awesome MATLAB Quant Finance Links
 
 ![intro](images/intro.png)
 
