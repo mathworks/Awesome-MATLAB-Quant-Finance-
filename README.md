@@ -52,6 +52,8 @@ Sara Galante, sdavis@mathworks.com
 			<li><a href="https://www.mathworks.com/help/finance/multi-period-goal-based-wealth-management-using-reinforcement-learning.html">Multiperiod Goal-Based Wealth Management Using Reinforcement Learning</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading">Code Example: Reinforcement Learning Applied to Financial Trading</a></li>
+			<p>&nbsp;</p>
+			<li><a href="https://github.com/mathworks/transformer-networks-for-time-series-prediction">Code Example: Deep Learning in Quantitative Finance: Transformer Networks for Time Series Prediction</a></li>
 		</ul></td>
 		</tr>
 	</tbody>
@@ -106,6 +108,8 @@ Sara Galante, sdavis@mathworks.com
 			<li><a href="https://www.youtube.com/watch?v=e21MfMe5vtU">Asset Allocation - Building the Hierarchical Risk Parity Strategy</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://www.youtube.com/watch?v=P-2dqiMCDY0">Applying Portfolio Optimization Across Risk, Returns, and Climate</a></li>
+			<li><a href="https://github.com/mathworks/managing_asset_allocation_with_experiment_manager">Code Example: Managing Asset Allocation with the Experiment Manager</a></li>
+			<p>&nbsp;</p>
 			</ul></td>
 		</tr>
 	</tbody>
