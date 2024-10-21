@@ -1,4 +1,4 @@
-# Awesome MATLAB Quant Finance Links
+# Awesome MATLAB Quant Finance :computer: :chart:
 
 ![intro](images/intro.png)
 
@@ -16,6 +16,7 @@ Sara Galante, sgalante@mathworks.com
 - [Risk Management](#risk-management)
 - [Asset Management and Optimization](#asset-management-and-optimization)
 - [Options and Derivatives](#options-and-derivatives)
+- [Model Integration and Deployment](#model-integration-and-deployment)
 
 ## Data Management
 
@@ -43,17 +44,12 @@ Sara Galante, sgalante@mathworks.com
 		<td> <b>Machine Learning for Finance<b> <br>
 			<img src="images/mlfin.png" alt="mlfin" /></td>
 		<td><ul>
-			<li><a href="https://www.mathworks.com/help/finance/machine-learning-for-statistical-arbitrage-data-management-and-visualization.html">Code Example: Machine Learning for Statistical Arbitrage I: Data Management and Visualization</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://www.youtube.com/watch?v=ONNk9ypWzeU">Machine Learning for Risk Management: Fraud Detection Using Machine Learning</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://www.mathworks.com/help/finance/backtest-deep-learning-model-for-algorithmic-trading-of-limit-order-book-data.html">Code Example: Backtest Deep Learning Model for Algorithmic Trading of Limit Order Book Data</a></li>
 			<p>&nbsp;</p>
-			<li><a href="https://www.mathworks.com/help/finance/multi-period-goal-based-wealth-management-using-reinforcement-learning.html">Multiperiod Goal-Based Wealth Management Using Reinforcement Learning</a></li>
-			<p>&nbsp;</p>
 			<li><a href="https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading">Code Example: Reinforcement Learning Applied to Financial Trading</a></li>
-			<p>&nbsp;</p>
-			<li><a href="https://github.com/mathworks/transformer-networks-for-time-series-prediction">Code Example: Deep Learning in Quantitative Finance: Transformer Networks for Time Series Prediction</a></li>
 		</ul></td>
 		</tr>
 	</tbody>
@@ -108,10 +104,6 @@ Sara Galante, sgalante@mathworks.com
 			<li><a href="https://www.youtube.com/watch?v=e21MfMe5vtU">Asset Allocation - Building the Hierarchical Risk Parity Strategy</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://www.youtube.com/watch?v=P-2dqiMCDY0">Applying Portfolio Optimization Across Risk, Returns, and Climate</a></li>
-			<p>&nbsp;</p>
-			<li><a href="https://github.com/mathworks/managing_asset_allocation_with_experiment_manager">Code Example: Managing Asset Allocation with the Experiment Manager</a></li>
-			<p>&nbsp;</p>
-			<li><a href="https://github.com/mathworks/Portfolio-Backtesting-Application">Code Example: Portfolio Backtesting Application</a></li>
 			</ul></td>
 		</tr>
 	</tbody>
@@ -130,6 +122,26 @@ Sara Galante, sgalante@mathworks.com
 			<li><a href="https://github.com/mathworks/Climate-IAM-Explorer/tree/d578e39616fe688dfd9665e15d1f5f0cac4d1d79/examples/Loan%20Portfolio%20Climate%20Stress%20Test">Code Example: Loan Portfolio Climate Stress Test</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://github.com/mathworks/estimating-option-implied-probability-distributions-for-asset-pricing">Estimating Option Implied Probability Distributions for Asset Pricing</a></li>
+			</ul></td>
+		</tr>
+	</tbody>
+</table>
+
+## Model Integration and Deployment
+
+<table>
+	<tbody>
+		<tr>
+			<td><b> System Integration and Model Deployment <b><br>
+			<img src="images/modeldeployment.png" alt="option" /></td>
+			<td><ul>
+			<li><a href="https://github.com/mathworks/Trading-Analysis-in-MATLAB-using-Python">Trading Analysis in MATLAB using Python</a></li>
+			<p>&nbsp;</p>
+			<li><a href=" https://www.mathworks.com/videos/integrating-python-with-matlab-1605793241650.html">Integrating Python with MATLAB</a></li>
+			<p>&nbsp;</p>
+			<li><a href="https://www.mathworks.com/videos/deploying-matlab-models-to-web-and-production-for-finance-1607671433392.html">Deploying MATLAB Models to Web Production for Finance</a></li>
+			<p>&nbsp;</p>
+			<li><a href="https://github.com/mathworks/how-to-turn-your-script-into-a-simple-app ">How to Turn Your Script into a Simple App</a></li>
 			</ul></td>
 		</tr>
 	</tbody>
