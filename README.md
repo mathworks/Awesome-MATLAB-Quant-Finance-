@@ -28,8 +28,6 @@ Sara Galante, sgalante@mathworks.com
 			<td><ul>
 			<li><a href="https://www.mathworks.com/videos/automated-data-cleaning-and-preparation-in-matlab-1562608492563.html">Automated Data Cleaning and Preparation</a></li>
 			<p>&nbsp;</p>
-			<li><a href="https://www.mathworks.com/help/datafeed/retrieve-data-using-bloomberg-hypermedia.html">Retrieve Data Using Bloomberg Hypermedia</a></li>
-			<p>&nbsp;</p>
 			<li><a href="https://www.mathworks.com/videos/data-preprocessing-for-finance-1602504445109.html">Data Preprocessing for Finance</a></li>
 			</ul></td>
 		</tr>
@@ -47,9 +45,9 @@ Sara Galante, sgalante@mathworks.com
 			<p>&nbsp;</p>
 			<li><a href="https://www.youtube.com/watch?v=ONNk9ypWzeU">Machine Learning for Risk Management: Fraud Detection Using Machine Learning</a></li>
 			<p>&nbsp;</p>
-			<li><a href="https://www.mathworks.com/help/finance/backtest-deep-learning-model-for-algorithmic-trading-of-limit-order-book-data.html">Code Example: Backtest Deep Learning Model for Algorithmic Trading of Limit Order Book Data</a></li>
+			<li><a href="https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading">Code Example: Reinforcement Learning for Financial Trading</a></li>
 			<p>&nbsp;</p>
-			<li><a href="https://github.com/matlab-deep-learning/reinforcement_learning_financial_trading">Code Example: Reinforcement Learning Applied to Financial Trading</a></li>
+			<li><a href="https://www.mathworks.com/help/finance/backtest-strategies-using-deep-learning.html">Code Example: Backtest Strategies Using Deep Learning</a></li>
 		</ul></td>
 		</tr>
 	</tbody>
@@ -63,11 +61,11 @@ Sara Galante, sgalante@mathworks.com
 			<td><b> Econometrics <b><br>
 			<img src="images/econ.png" alt="econ" /></td>
 			<td><ul>
-			<li><a href="https://www.mathworks.com/videos/long-term-energy-forecasting-with-econometrics-in-matlab-99301.html">Long Term Energy Forecasting with Econometrics in MATLAB</a></li>
+			<li><a href="https://www.mathworks.com/help/econ/filter-data-through-statespace-model-in-real-time.html">Nowcasting Code Example: Filter Data through State-Space Model in Real Time</a></li>
 			<p>&nbsp;</p>
-			<li><a href="https://www.mathworks.com/videos/switching-models-in-econometrics-threshold-switching-models-1642749649744.html">Threshold Switching Models | Switching Models in Econometrics</a></li>
+			<li><a href="https://www.mathworks.com/videos/matlab-for-real-time-economics-1668422801893.htmll">Applying BEAR and Dynare: MATLAB for Real-Time Economics</a></li>
 			<p>&nbsp;</p>
-			<li><a href="https://www.mathworks.com/videos/using-energy-economic-models-for-climate-related-financial-impact-analysis-1633579187945.html">Using Energy-Economic Models for Climate-Related Financial Impact Analysis</a></li>
+			<li><a href="https://blogs.mathworks.com/finance/2025/03/20/the-economic-effects-of-tariff-changes/">Code Example: Economic Effects of Tariff Changes</a></li>
 			</ul></td>
 		</tr>
 	</tbody>
@@ -81,9 +79,9 @@ Sara Galante, sgalante@mathworks.com
 			<td> <b>Risk Management <b> <br>
 			<img src="images/riskmanage.png" alt="riskmanage" /></td>
 			<td><ul>
-			<li><a href="https://www.youtube.com/watch?v=Bc1aVnjRc50">Code Example: Estimate VaR for Equity Portfolio Using Parametric Methods</a></li>
+			<li><a href="https://blogs.mathworks.com/finance/2025/03/03/assessing-climate-impacts-on-credit-risk/">Assessing Climate Impacts on Credit Risk</a></li>
 			<p>&nbsp;</p>
-			<li><a href="https://www.mathworks.com/help/risk/estimate-var-using-parametric-methods.html">Code Example: Create Weighted Lifetime PD Model</a></li>
+			<li><a href="https://www.mathworks.com/help/risk/estimate-var-using-parametric-methods.html">Code Example: Estimate VaR for Equity Portfolio Using Parametric Methods</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://www.mathworks.com/help/risk/value-at-risk-estimation-and-backtesting.html">Value-at-Risk Estimation and Backtesting</a></li>
 			</ul></td>
@@ -99,11 +97,11 @@ Sara Galante, sgalante@mathworks.com
 			<td> <b>Investment Optimization <b> <br>
 			<img src="images/portopt.png" alt="portopt" /></td>
 			<td><ul>
+			<li><a href="https://blogs.mathworks.com/finance/2025/02/07/custom-portfolio-optimization-balancing-objectives-constraints-and-efficiency/">Custom Portfolio Optimization: Balancing Objectives, Constraints, and Efficiency</a></li>
+			<p>&nbsp;</p>
 			<li><a href="https://github.com/mathworks/Quantum-Computing-MATLAB/tree/main/examples/portfolio-optimization">Asset Management and Quantum Computing: Portfolio Optimization using VQE-CVaR</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://www.youtube.com/watch?v=e21MfMe5vtU">Asset Allocation - Building the Hierarchical Risk Parity Strategy</a></li>
-			<p>&nbsp;</p>
-			<li><a href="https://www.youtube.com/watch?v=P-2dqiMCDY0">Applying Portfolio Optimization Across Risk, Returns, and Climate</a></li>
 			</ul></td>
 		</tr>
 	</tbody>
@@ -117,11 +115,11 @@ Sara Galante, sgalante@mathworks.com
 			<td><b> Valuation and Pricing of Options and Derivatives <b><br>
 			<img src="images/option.png" alt="option" /></td>
 			<td><ul>
+			<li><a href="https://github.com/matlab-deep-learning/PINNsOptionPricing">Code Example: Physics-Informed Neural Networks for Option Pricing</a></li>
+			<p>&nbsp;</p>
 			<li><a href="https://github.com/mathworks/climate-examples-commodity-volatility">Climate Examples: Volatility Forecasting of Commodities</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://github.com/mathworks/Climate-IAM-Explorer/tree/d578e39616fe688dfd9665e15d1f5f0cac4d1d79/examples/Loan%20Portfolio%20Climate%20Stress%20Test">Code Example: Loan Portfolio Climate Stress Test</a></li>
-			<p>&nbsp;</p>
-			<li><a href="https://github.com/mathworks/estimating-option-implied-probability-distributions-for-asset-pricing">Estimating Option Implied Probability Distributions for Asset Pricing</a></li>
 			</ul></td>
 		</tr>
 	</tbody>
@@ -135,9 +133,7 @@ Sara Galante, sgalante@mathworks.com
 			<td><b> System Integration and Model Deployment <b><br>
 			<img src="images/modeldeployment.png" alt="option" /></td>
 			<td><ul>
-			<li><a href="https://github.com/mathworks/Trading-Analysis-in-MATLAB-using-Python">Trading Analysis in MATLAB using Python</a></li>
-			<p>&nbsp;</p>
-			<li><a href=" https://www.mathworks.com/videos/integrating-python-with-matlab-1605793241650.html">Integrating Python with MATLAB</a></li>
+			<li><a href="https://github.com/mathworks/Trading-Analysis-in-MATLAB-using-Python">Code Example: Trading Analysis in MATLAB using Python</a></li>
 			<p>&nbsp;</p>
 			<li><a href="https://www.mathworks.com/videos/deploying-matlab-models-to-web-and-production-for-finance-1607671433392.html">Deploying MATLAB Models to Web Production for Finance</a></li>
 			<p>&nbsp;</p>
