@@ -143,6 +143,4 @@ Sara Galante, sgalante@mathworks.com
 	</tbody>
 </table>
 
-Questions?
-Contact dwilling@mathworks.com
 
