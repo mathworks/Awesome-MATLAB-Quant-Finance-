@@ -142,5 +142,3 @@ Sara Galante, sgalante@mathworks.com
 		</tr>
 	</tbody>
 </table>
-
-Any questions? Contact David Willingham 
